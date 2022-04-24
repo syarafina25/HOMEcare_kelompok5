@@ -43,7 +43,7 @@ body {
 }
 
 .Nama,
-.nomorHandphone {
+.nomorhp {
     width: 100%;
     text-align: center;
     padding: 13px 0;
@@ -57,12 +57,12 @@ body {
 }
 
 .Nama::placeholder,
-.nomorHandphone::placeholder {
+.nomorhp::placeholder {
     color: rgba(255, 255, 255, 0.938);
 }
 
 .Nama:focus,
-.nomorHandphone:focus {
+.nomorHp:focus {
     background-color: rgba(68, 45, 10, 0.7);
 }
 
